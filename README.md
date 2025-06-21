@@ -4,6 +4,8 @@
 
 #### video demo: https://youtu.be/zpc6q1SNRVU
 
+#### to acess the app: https://salesgamesanalysis.streamlit.app/
+
 #### description:
 
 this project is called **video game sales analysis**. it’s a simple but fully functional data analysis app created for my cs50p final project. the main goal of this app is to provide some insights into the video game industry using real sales data.
